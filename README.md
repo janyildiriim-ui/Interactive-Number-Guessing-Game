@@ -2,9 +2,9 @@
 
 An interactive number guessing game in Python.
 
-## Nasıl çalıştırılır
+## How to run
 
-1. Bilgisayarınızda Python 3 yüklü olmalı.
-2. Terminal veya Komut Satırı’ndan oyunun bulunduğu klasöre gidin.
-3. Şu komutu çalıştırın:
-   python oyun.py
+1. Make sure Python 3 is installed on your computer.
+2. Open Terminal or Command Prompt and navigate to the folder containing the game.
+3. Run the following command:
+   python oyun.py
