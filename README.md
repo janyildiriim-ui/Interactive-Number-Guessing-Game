@@ -1,6 +1,6 @@
-# Sayı Tahmin Oyunu
+# Interactive Number Guessing Game
 
-Python ile geliştirilmiş, kullanıcıdan 1-100 arasında bir sayı tahmin etmesini isteyen interaktif oyun.
+An interactive number guessing game in Python.
 
 ## Nasıl çalıştırılır
 
